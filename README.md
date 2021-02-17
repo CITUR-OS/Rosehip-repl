@@ -18,4 +18,4 @@ Reliable Operating System by Elisha Hollander Implemented Python
   * scroll up and down while holding ALT button to change the color of the brush
   * scroll up and down while holding CTRL button to change the shape of the brush
   
-Notice - This methos is **_extremely_** slow, you sould build it on your own pc using this [source code](https://github.com/donno2048/rosehip)
+Notice - This methos is **_extremely_** slow, you sould build it on your own pc using this [source code](https://github.com/CITUR-OS/rosehip)
